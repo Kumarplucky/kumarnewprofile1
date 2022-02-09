@@ -1,0 +1,67 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+#title{
+  background-color: #95D1CC;
+  font-size: 1rem;
+}
+
+h1{
+  margin-top: 0;
+    font-size: 200px;
+    font-family:'Montserrat', sans-serif;
+    color:#FF8E00;
+    text-align: center;
+  }
+h4{
+  font-family:'Ubuntu bold', sans-serif;
+  font-size: 100px;
+  color: #FF8E00;
+  text-align: center;
+}
+h2{
+  font-family:'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size:25px;
+  color:#11999E;
+  padding:  2% 8% ;
+  text-align: center;
+}
+p{
+  font-family: 'Zilla Slab', serif;
+  font-size: 25px;
+  line-height: 1.5;
+  font-weight: 100;
+  padding: 0 10% 0 10%;
+
+}
+em{
+  text-align: center;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.profile{
+  line-height: 30px;
+  width: 60%;
+  margin:auto;
+  text-align: center;
+    padding: 5% 12% 5% 12%;
+
+}
+.profile-images{
+  height: 500px;
+  text-align: center;
+}
+#skills{
+  text-align: center;
+  background-color:#9AE66E;
+}
+.skill-image{
+  border: 100%;
+  width: 15%;
+}
+.carousel-item{
+  padding: 4% 15%;
+}
